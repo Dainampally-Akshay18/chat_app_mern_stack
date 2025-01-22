@@ -11,7 +11,7 @@ const DeveloperPage = () => {
                 <figure>
                     <img 
                     style={{height:"300px",width:"175px"}}
-                        src="https://w0.peakpx.com/wallpaper/1004/647/HD-wallpaper-virat-kohli-batting-virat-kohli-batting-king-kohli-cricketer-sports-face-background.jpg"
+                        src="https://wallpapers.com/images/hd/cartoon-kohli-cricket-4k-3ae01vjqfye2xnn8.jpg"
                         alt="Movie" />
                 </figure>
                 <h1 style={{ textAlign: "center", fontSize: "1.5rem" }}>Akshay Kireet</h1>
