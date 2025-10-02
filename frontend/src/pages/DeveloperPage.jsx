@@ -84,7 +84,7 @@ const DeveloperPage = () => {
                     color: 'rgba(235,243,255,0.95)',
                   }}
                 >
-                  Akshay Kireet
+                  Dainampally Akshay Kireet
                 </h2>
                 <p
                   className="mt-1 text-center"
