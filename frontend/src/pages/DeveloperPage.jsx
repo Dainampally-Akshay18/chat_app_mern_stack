@@ -90,7 +90,7 @@ const DeveloperPage = () => {
                   className="mt-1 text-center"
                   style={{ color: 'rgba(200,220,255,0.65)', fontSize: '0.95rem' }}
                 >
-                  Solo developer, systems thinker, and product perfectionist.
+                  Ex-Microsoft Intern| Ex-Web Development Lead @GDG Oncampus CMRIT | Full-Stack & AI Developer | MERN, LangChain, Azure AI | Python & Data Analysis Enthusiast|
                 </p>
               </div>
             </article>
