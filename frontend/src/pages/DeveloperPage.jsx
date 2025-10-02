@@ -72,7 +72,7 @@ const DeveloperPage = () => {
                     objectPosition: 'center',
                     filter: 'saturate(1.05) contrast(1.05)',
                   }}
-                  src="https://wallpapers.com/images/hd/cartoon-kohli-cricket-4k-3ae01vjqfye2xnn8.jpg"
+                  src="https://res.cloudinary.com/dadapse5k/image/upload/v1759377580/akshay4_k1qqtn.png"
                   alt="Developer avatar illustration"
                 />
               </figure>
